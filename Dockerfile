@@ -1,1 +1,1 @@
-openjdk-7-jre/Dockerfile
+open jdk-7-jre/Dockerfile
